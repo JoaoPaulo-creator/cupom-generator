@@ -20,5 +20,4 @@ for p in range(0,2):
     n += numeros[randomizar_numeros: randomizar_numeros + 1]
 
 
-cupom = l + n
-print (cupom)
+print(f'{l}{n}')
